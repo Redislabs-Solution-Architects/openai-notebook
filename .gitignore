@@ -3,4 +3,4 @@ __pycache__/
 .env
 Pipfile.lock
 .ipynb_checkpoints/
-playground_openai_colab.ipynb
+#playground_openai_colab.ipynb
